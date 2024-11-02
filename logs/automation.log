@@ -1,0 +1,173 @@
+2024-10-27 22:34:07 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+2024-10-27 22:34:13 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-27 22:34:43 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-27 22:35:05 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-27 22:35:25 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-27 22:35:45 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-27 22:36:05 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-27 22:42:06 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+2024-10-27 22:42:12 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-27 22:42:43 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-27 22:43:04 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-27 22:43:24 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:16:14 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+2024-10-28 16:16:21 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:16:47 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:17:07 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:17:27 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:28:47 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+2024-10-28 16:28:53 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:29:31 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:29:51 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:30:11 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:39:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+2024-10-28 16:39:10 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:39:41 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:40:01 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:40:21 INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+2024-10-28 16:42:32 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+2024-10-28 16:43:35 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-10-28 16:43:36 INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Account and Register****
+2024-10-28 16:43:36 INFO  testCases.TC_001_AccountRegistrationTest - **Providing Customer Details****
+2024-10-28 16:43:36 INFO  testCases.TC_001_AccountRegistrationTest - ***Validating Expected Message****
+2024-10-28 16:46:42 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+2024-10-28 16:47:23 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-10-28 16:47:23 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-10-28 16:47:24 INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+2024-10-28 16:47:24 INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+2024-10-28 16:47:36 INFO  testCases.TC_002_LoginTest - Ready to click button
+2024-10-28 16:47:36 INFO  testCases.TC_002_LoginTest - clicked on l0gin button..
+2024-10-28 16:47:36 INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+2024-10-28 16:52:09 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+2024-10-28 16:52:14 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-10-28 16:52:14 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-10-28 21:34:02 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\grouping.xml
+
+2024-10-28 21:34:08 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-10-28 21:34:08 INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Account and Register****
+2024-10-28 21:34:08 INFO  testCases.TC_001_AccountRegistrationTest - **Providing Customer Details****
+2024-10-28 21:34:14 INFO  testCases.TC_001_AccountRegistrationTest - ***Validating Expected Message****
+2024-10-28 21:34:25 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-10-28 21:34:25 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-10-28 21:34:25 INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+2024-10-28 21:34:25 INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+2024-10-28 21:34:36 INFO  testCases.TC_002_LoginTest - Ready to click button
+2024-10-28 21:34:36 INFO  testCases.TC_002_LoginTest - clicked on l0gin button..
+2024-10-28 21:34:36 INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+2024-10-28 22:23:32 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\grouping.xml
+
+2024-10-28 22:23:38 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-10-28 22:23:38 INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Account and Register****
+2024-10-28 22:23:38 INFO  testCases.TC_001_AccountRegistrationTest - **Providing Customer Details****
+2024-10-28 22:23:44 INFO  testCases.TC_001_AccountRegistrationTest - ***Validating Expected Message****
+2024-10-28 22:23:58 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-10-28 22:23:58 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-10-28 22:23:58 INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+2024-10-28 22:23:58 INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+2024-10-28 22:24:04 INFO  testCases.TC_002_LoginTest - Ready to click button
+2024-10-28 22:24:04 INFO  testCases.TC_002_LoginTest - clicked on l0gin button..
+2024-10-28 22:26:18 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\grouping.xml
+
+2024-10-28 22:26:24 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-10-28 22:27:00 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-10-28 22:27:00 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-10-28 22:31:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\test-output\testng-failed.xml
+
+2024-10-28 22:31:49 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-10-28 22:31:49 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-10-28 22:31:50 INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+2024-10-28 22:31:50 INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+2024-10-28 22:31:55 INFO  testCases.TC_002_LoginTest - Ready to click button
+2024-10-28 22:31:55 INFO  testCases.TC_002_LoginTest - clicked on l0gin button..
+2024-10-28 22:31:55 INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+2024-10-28 22:32:00 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-10-28 22:32:01 INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Account and Register****
+2024-10-28 22:32:01 INFO  testCases.TC_001_AccountRegistrationTest - **Providing Customer Details****
+2024-10-28 22:32:06 INFO  testCases.TC_001_AccountRegistrationTest - ***Validating Expected Message****
+2024-10-28 22:32:26 ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+2024-11-01 19:51:06 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\crossbrowsertesting.xml
+
+2024-11-01 19:51:15 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-11-01 19:51:18 INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Account and Register****
+2024-11-01 19:51:18 INFO  testCases.TC_001_AccountRegistrationTest - **Providing Customer Details****
+2024-11-01 19:51:22 INFO  testCases.TC_001_AccountRegistrationTest - ***Validating Expected Message****
+2024-11-01 19:51:42 ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+2024-11-01 19:51:46 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-11-01 19:51:47 INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Account and Register****
+2024-11-01 19:51:47 INFO  testCases.TC_001_AccountRegistrationTest - **Providing Customer Details****
+2024-11-01 19:51:57 INFO  testCases.TC_001_AccountRegistrationTest - ***Validating Expected Message****
+2024-11-01 19:52:02 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-11-01 19:52:02 INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Account and Register****
+2024-11-01 19:52:02 INFO  testCases.TC_001_AccountRegistrationTest - **Providing Customer Details****
+2024-11-01 19:52:13 INFO  testCases.TC_001_AccountRegistrationTest - ***Validating Expected Message****
+2024-11-01 21:13:40 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+2024-11-01 21:13:46 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-11-01 21:13:47 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-11-01 21:13:47 INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+2024-11-01 21:13:47 INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+2024-11-01 21:13:51 INFO  testCases.TC_002_LoginTest - Ready to click button
+2024-11-01 21:13:51 INFO  testCases.TC_002_LoginTest - clicked on l0gin button..
+2024-11-01 21:14:25 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+2024-11-01 21:14:29 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-11-01 21:14:29 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-11-01 21:14:30 INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+2024-11-01 21:14:30 INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+2024-11-01 21:14:34 INFO  testCases.TC_002_LoginTest - Ready to click button
+2024-11-01 21:14:34 INFO  testCases.TC_002_LoginTest - clicked on l0gin button..
+2024-11-01 21:14:41 INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+2024-11-01 21:21:41 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-11-01 21:21:41 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-11-01 21:21:41 INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+2024-11-01 21:21:41 INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+2024-11-01 21:21:46 INFO  testCases.TC_002_LoginTest - Ready to click button
+2024-11-01 21:21:46 INFO  testCases.TC_002_LoginTest - clicked on l0gin button..
+2024-11-01 21:21:47 INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+2024-11-01 21:23:51 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-11-01 21:23:52 INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Account and Register****
+2024-11-01 21:23:52 INFO  testCases.TC_001_AccountRegistrationTest - **Providing Customer Details****
+2024-11-01 21:24:04 INFO  testCases.TC_001_AccountRegistrationTest - ***Validating Expected Message****
+2024-11-01 21:24:24 ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+2024-11-01 21:24:30 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-11-01 21:24:30 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-11-01 21:24:31 INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+2024-11-01 21:24:31 INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+2024-11-01 21:24:36 INFO  testCases.TC_002_LoginTest - Ready to click button
+2024-11-01 21:24:36 INFO  testCases.TC_002_LoginTest - clicked on l0gin button..
+2024-11-01 21:24:37 INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+2024-11-02 10:51:53 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-11-02 10:52:33 INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+2024-11-02 10:52:33 INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+2024-11-02 10:52:33 INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+2024-11-02 10:52:33 INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+2024-11-02 10:52:43 INFO  testCases.TC_002_LoginTest - Ready to click button
+2024-11-02 10:52:43 INFO  testCases.TC_002_LoginTest - clicked on l0gin button..
+2024-11-02 10:52:55 INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+2024-11-02 10:57:02 INFO  testCases.TC_001_AccountRegistrationTest - ***Starting AccountRegistration TestCase...
+2024-11-02 10:57:03 INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Account and Register****
+2024-11-02 10:57:03 INFO  testCases.TC_001_AccountRegistrationTest - **Providing Customer Details****
+2024-11-02 10:57:15 INFO  testCases.TC_001_AccountRegistrationTest - ***Validating Expected Message****
